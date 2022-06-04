@@ -86,7 +86,7 @@ DATABASES = {
 #         'ENGINE': 'django.db.backends.postgresql',
 #         'NAME': 'scalper_auth',
 #         'USER': 'postgres',
-#         'PASSWORD': 'w5w5y599',
+#         'PASSWORD': '',
 #         'HOST': 'localhost',
 #     },
 # }
