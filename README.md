@@ -1,1 +1,1 @@
-# News_project
+# News pet-project
